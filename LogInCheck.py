@@ -1,4 +1,4 @@
-#compares inputs to data found in the text file
+#compares inputs to data found in the text-file
 while True:
     access = 0
     for user in users:
