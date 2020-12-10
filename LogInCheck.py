@@ -6,7 +6,7 @@ while True:
         if(user[0] == username and user[1] == password):
             access = 1
             break
-    
+
     if(access == 1):
         print("Correct Username and Password")
         break
